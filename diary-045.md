@@ -16,4 +16,4 @@ A description why I took this course and what I expected to learn.
 A description what I learned with this course and which was the most or least challenging part of it.
 
 
-Back [home](/index.md)
+**_Back [home]_**(/index.md)
