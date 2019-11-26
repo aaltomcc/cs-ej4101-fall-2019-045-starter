@@ -13,3 +13,7 @@ Here is a nice picture of a random beach:
 
 
 ![alt text](https://images.pexels.com/photos/2707756/pexels-photo-2707756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260 "Beach")
+
+
+
+To learn more, please click [here](mylib/diary-045.md)
