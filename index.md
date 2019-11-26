@@ -16,4 +16,4 @@ Here is a nice picture of a random beach:
 
 
 
-To learn more, please click [here](mylib/diary-045.md)
+To learn more, please click [here](/diary-045.md)
